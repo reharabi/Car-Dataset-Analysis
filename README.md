@@ -12,10 +12,9 @@ To analyze how vehicle attributes like horsepower, drivetrain, transmission type
 
 ## 📁 Files
 
-- `car_analysis.ipynb` – Main Colab notebook
-- `README.md` – Project overview and insights
-- *(Optional)* `data.csv` – Original dataset
-- *(Optional)* `requirements.txt` – Python packages used
+- `Project_Car_Dataset.ipynb` – Main Colab notebook
+- `data (2).csv` – Original dataset
+
 
 ---
 
