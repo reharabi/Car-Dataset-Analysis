@@ -12,8 +12,8 @@ To analyze how vehicle attributes like horsepower, drivetrain, transmission type
 
 ## 📁 Files
 
-- `Project_Car_Dataset.ipynb` – Main Colab notebook
-- `data (2).csv` – Original dataset
+- [`Project_Car_Dataset.ipynb`](https://github.com/reharabi/Car-Dataset-Analysis/blob/main/Project_Car_Dataset.ipynb) – Main Colab notebook  
+- [`data (2).csv`](https://github.com/reharabi/Car-Dataset-Analysis/blob/main/data%20(2).csv) – Original dataset
 
 
 ---
