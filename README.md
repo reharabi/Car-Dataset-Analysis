@@ -1,6 +1,6 @@
 # 🚗 Car Dataset Analysis – Fuel, Performance & Market Insights
 
-This project explores the car dataset to uncover relationships between vehicle specifications, fuel efficiency, pricing, and market segmentation. It combines data cleaning, feature engineering, and visual analytics to deliver actionable insights.
+This project explores the car dataset to uncover relationships between vehicle specifications, fuel efficiency, pricing, and market segmentation. It combines data cleaning, feature engineering, and visual analytics to deliver actionable insights. This project was completed as part of my data analytics training at Masterschool.
 
 ---
 
